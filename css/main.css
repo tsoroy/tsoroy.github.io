@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@import url('gnome-hig-colors.css');
+* {
+  padding: 0;
+  border: 0;
+  margin: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+:root {
+  --page-width: 14em;
+}
+.unselectable {
+  -webkit-touch-callout: none;
+    -webkit-user-select: none;
+     -khtml-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+}
+img {
+  width: 100%;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  font-family: 'Inter', sans-serif;
+  background: var(--light-1);
+  color: var(--dark-4);
+}
+.header {
+  display: flex;
+  flex-direction: column;
+  height: 8em;
+  border-bottom: 1px solid #deddda;
+  padding: 0 var(--page-width);
+  background: var(--dark-4);
+  color: var(--light-1);
+}
+.logo {
+  display: flex;
+  align-items: center;
+  height: 100%;
+  font-size: 2em;
+  font-weight: 600;
+}
+.main {
+  display: flex;
+  flex-direction: column;
+  padding: 2em var(--page-width);
+}
+.project {
+  display: flex;
+  height: 180px;
+  margin: 1em 0;
+  border-radius: 1em;
+  background: var(--light-1);
+}
+.project:hover {
+  background: var(--light-2);
+}
+.project-icon {
+  width: 180px;
+  padding: 30px;
+}
+.project-info {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  padding: 30px;
+}
+.project-name {
+  font-size: 2em;
+  font-weight: 600;
+}
+.project-description {
+  overflow: hidden;
+}
+
+@media (max-width: 1000px) {
+  :root {
+    --page-width: 10em;
+  }
+}
+@media (max-width: 800px) {
+  :root {
+    --page-width: 4em;
+  }
+}
+@media (max-width: 500px) {
+  :root {
+    --page-width: 2em;
+  }
+  .logo {
+    justify-content: center;
+  }
+}
