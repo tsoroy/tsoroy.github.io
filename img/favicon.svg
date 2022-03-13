@@ -4,7 +4,7 @@
    height="420"
    version="1.1"
    id="svg6"
-   sodipodi:docname="icon.svg"
+   sodipodi:docname="icon-dark.svg"
    inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
    viewBox="0 0 420 420"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -24,7 +24,7 @@
      showgrid="false"
      inkscape:zoom="0.92428958"
      inkscape:cx="221.25101"
-     inkscape:cy="261.28175"
+     inkscape:cy="243.97116"
      inkscape:window-width="1206"
      inkscape:window-height="778"
      inkscape:window-x="66"
@@ -33,17 +33,17 @@
      inkscape:current-layer="svg6" />
   <path
      d="m 410,210 -0.158,66.098 -0.474,21.05 -0.793,15.21 -1.112,12.271 -1.438,10.404 -1.766,9.067 -2.102,8.036 -2.446,7.198 -2.8,6.492 -3.167,5.877 -3.549,5.33 -3.951,4.834 -4.377,4.377 -4.834,3.951 -5.33,3.549 -5.877,3.167 -6.492,2.8 -7.198,2.446 -8.036,2.102 -9.067,1.766 -10.404,1.438 -12.271,1.112 -15.21,0.793 -21.05,0.474 -65.947,0.158 -66.249,-0.158 -21.05,-0.474 -15.21,-0.793 -12.271,-1.112 -10.404,-1.438 -9.067,-1.766 -8.036,-2.102 -7.198,-2.446 -6.492,-2.8 -5.877,-3.167 -5.33,-3.549 -4.834,-3.951 -4.377,-4.377 -3.951,-4.834 -3.549,-5.33 -3.167,-5.877 -2.8,-6.492 -2.446,-7.198 -2.102,-8.036 -1.766,-9.067 -1.438,-10.404 -1.112,-12.271 -0.793,-15.21 -0.474,-21.05 -0.158,-65.899 0.158,-66.297 0.474,-21.05 0.793,-15.21 1.112,-12.271 1.438,-10.404 1.766,-9.067 2.102,-8.036 2.446,-7.198 2.8,-6.492 3.167,-5.877 3.549,-5.33 3.951,-4.834 4.377,-4.377 4.834,-3.951 5.33,-3.549 5.877,-3.167 6.492,-2.8 7.198,-2.446 8.036,-2.102 9.067,-1.766 10.404,-1.438 12.271,-1.112 15.21,-0.793 21.05,-0.474 65.863,-0.158 66.333,0.158 21.05,0.474 15.21,0.793 12.271,1.112 10.403,1.438 9.068,1.766 8.036,2.102 7.198,2.446 6.492,2.8 5.877,3.167 5.33,3.549 4.834,3.951 4.377,4.377 3.951,4.834 3.549,5.33 3.167,5.877 2.8,6.492 2.446,7.198 2.102,8.036 1.766,9.067 1.438,10.404 1.112,12.271 0.793,15.21 0.474,21.05 0.158,65.835 z"
-     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5"
+     style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5"
      id="path3" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:112px;line-height:1.25;font-family:Constantia;-inkscape-font-specification:'Constantia Bold';text-align:center;letter-spacing:1.68px;text-anchor:middle;fill:#000000;stroke-width:1"
-     x="210.38278"
-     y="248.44527"
-     id="text2183"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:128px;line-height:1.25;font-family:'High Tower Text';-inkscape-font-specification:'High Tower Text';text-align:center;letter-spacing:-3.2px;text-anchor:middle;fill:#ffffff;stroke-width:1"
+     x="208.51178"
+     y="250.90254"
+     id="text2183-6"><tspan
        sodipodi:role="line"
-       id="tspan2181"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:112px;font-family:Constantia;-inkscape-font-specification:'Constantia Bold';text-align:center;text-anchor:middle;fill:#000000;stroke-width:1"
-       x="211.22278"
-       y="248.44527">Tsori</tspan></text>
+       id="tspan2181-5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:128px;font-family:'High Tower Text';-inkscape-font-specification:'High Tower Text';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1"
+       x="206.91177"
+       y="250.90254">Tsori</tspan></text>
 </svg>
